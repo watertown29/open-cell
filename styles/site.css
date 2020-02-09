@@ -16,12 +16,3 @@ main{
   background-size: cover;
   width: 100%;
 }
-
-.image-block{
-  position: absolute;
-  top: 288px;
-  right: 530px;
-  left: 245px;
-  bottom: 385px;
-  background-color: white;
-}
