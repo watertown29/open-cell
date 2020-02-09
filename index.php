@@ -7,7 +7,7 @@ include("includes/init.php");
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title><?php if (isset($title)) { echo $title . " - "; } ?> INFO 2300</title>
+    <title><?php if (isset($title)) { echo $title . " - "; } ?>Open Cell AI</title>
 
     <link rel="stylesheet" type="text/css" href="styles/site.css" media="all" />
   </head>
