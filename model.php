@@ -16,7 +16,7 @@ include("includes/init.php");
 
     <main>
       <img class="hero-bg" src="/images/your-model.png" alt="">
-      <div class="button-invis"><a href="model.php">Click On this</a></div>
+      <div class="button-invis"><a href="index.php">Click On this</a></div>
 
     </main>
 
