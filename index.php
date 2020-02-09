@@ -14,8 +14,10 @@ include("includes/init.php");
   <body>
 
 
-    <main>
+    <main class="parent">
       <img class="hero-bg" src="/images/main.png" alt="">
+      <div class="button-invis"><a href="model.php">Click On this</a></div>
+
     </main>
 
 
