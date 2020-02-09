@@ -16,7 +16,6 @@ include("includes/init.php");
 
     <main>
       <img class="hero-bg" src="/images/main.png" alt="">
-      <div class="image-block"></div>
     </main>
 
 
