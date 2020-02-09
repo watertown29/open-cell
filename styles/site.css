@@ -14,5 +14,6 @@ main{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 100%;
+  max-width: 100%;
+  min-width: 1024px;
 }
